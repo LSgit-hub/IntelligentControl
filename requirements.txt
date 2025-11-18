@@ -1,0 +1,25 @@
+# 智能控制助手项目依赖项
+# 核心依赖
+openai>=1.0.0
+requests>=2.28.0
+python-dotenv>=0.19.0
+pywin32>=305; sys_platform == 'win32'
+loguru>=0.7.0
+
+# 界面和显示
+rich>=13.0.0
+colorama>=0.4.6
+
+# 数据处理
+jsonschema>=4.17.0
+
+# 测试
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# 可选依赖（用于特定功能）
+# 如果使用LM Studio，不需要额外依赖
+# 如果使用Ollama，不需要额外依赖
+# 如果使用本地模型，需要transformers和torch
+# transformers>=4.30.0
+# torch>=2.0.0

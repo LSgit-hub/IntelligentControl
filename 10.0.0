@@ -1,0 +1,5 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: rich in f:\my_code\vscode_py\intelligentcontrol\.venv\lib\site-packages (14.2.0)
+Requirement already satisfied: markdown-it-py>=2.2.0 in f:\my_code\vscode_py\intelligentcontrol\.venv\lib\site-packages (from rich) (4.0.0)
+Requirement already satisfied: pygments<3.0.0,>=2.13.0 in f:\my_code\vscode_py\intelligentcontrol\.venv\lib\site-packages (from rich) (2.19.2)
+Requirement already satisfied: mdurl~=0.1 in f:\my_code\vscode_py\intelligentcontrol\.venv\lib\site-packages (from markdown-it-py>=2.2.0->rich) (0.1.2)

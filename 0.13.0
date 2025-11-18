@@ -1,0 +1,5 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting keyboard
+  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/55/88/287159903c5b3fc6d47b651c7ab65a54dcf9c9916de546188a7f62870d6d/keyboard-0.13.5-py3-none-any.whl (58 kB)
+Installing collected packages: keyboard
+Successfully installed keyboard-0.13.5
